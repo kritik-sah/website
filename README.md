@@ -1,5 +1,5 @@
-# We to cryptolancer.in website project.
-Cryptolancer.in is a Hybrid decentralized application which will offer its users to Hire tallented freelacers and pay in crypto. We are planing to launch it on Polygon Matic Chain, since it has very less gass fee. and have huge ecosystem & potential of growth. 
+# Welcome to cryptolancer.in website project.
+Cryptolancer.in is a Hybrid decentralized application which will offer its users to Hire talented freelancer's and pay in crypto. We are planning to launch it on Polygon Matic Chain, since it has very less gas fee. and have huge ecosystem & potential of growth.
 
 #Our Tech Stack
 ---
