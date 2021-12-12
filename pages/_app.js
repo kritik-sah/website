@@ -7,7 +7,7 @@ const SERVER_URL = process.env.NEXT_PUBLIC_MORALIS_SERVER_URL;
 function MyApp({ Component, pageProps }) {
   return (
     <MoralisProvider appId={APP_ID} serverUrl={SERVER_URL}>
-      <Component {...pageProps} />
+      <Component className="scroll-smooth" {...pageProps} />
     </MoralisProvider>
   )
 }
